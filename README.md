@@ -6,9 +6,11 @@ Apache jMeter for remote run
 Description
 ===========
 
-Apache jMeter to run on remote servers according http://blog.ionelmc.ro/2012/02/16/how-to-run-jmeter-over-ssh-tunnel/
-You need to do SSH tunnel to this container to be able to run remote tests. Use SSH port 12345 according example below.
-Username: `jmeter`
+Apache jMeter to run on remote servers according [good post](http://blog.ionelmc.ro/2012/02/16/how-to-run-jmeter-over-ssh-tunnel/)
+
+You need to do SSH tunnel to this container to be able to run remote tests. Use SSH port 12345 if you run example below.
+
+Username: `jmeter` 
 Password: `jmeter`
 
 Usage
